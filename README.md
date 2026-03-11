@@ -10,7 +10,7 @@ Inspired by [Kavan's C++/OpenGL gravity simulation](https://youtu.be/_YbGWoUaZg0
 
 ## ✨ Demo
 3-D View (TILT VIEW)
-![image alt]()
+![image alt](https://github.com/Solivagus17/Gravity-Simulation-in-Python/blob/ac637aafc5c44015f9c686a009036f37d2ce5758/Gravity%20Simulation%20in%20Python-%20TILT%20view.png)
 
 
 ---
