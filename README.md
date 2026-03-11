@@ -43,7 +43,6 @@ Uses the **4th-order Yoshida symplectic integrator** with 4 sub-steps per frame 
 | Venus | 0.72333199 | 0.00677323 |
 | Earth | 1.00000011 | 0.01671022 |
 | Mars | 1.52366231 | 0.09341233 |
-| Jupiter | 5.20336301 | 0.04839266 |
 
 Each planet starts at **perihelion** with the correct perihelion speed from the vis-viva equation:
 
