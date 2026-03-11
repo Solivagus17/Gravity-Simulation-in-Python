@@ -108,7 +108,7 @@ python gravity_sim.py
 
 ## 🙏 Credits
 
-- Inspired by **Kavan's** C++/OpenGL gravity simulation on YouTube.
+- Inspired by **Kavan's** C++/OpenGL gravity simulation on YouTube.(https://youtu.be/_YbGWoUaZg0)
 - Orbital elements: [NASA JPL Horizons](https://ssd.jpl.nasa.gov/horizons/)
 - Physical constants: [NIST CODATA 2018](https://physics.nist.gov/cuu/Constants/), [IAU 2015](https://www.iau.org/)
 
