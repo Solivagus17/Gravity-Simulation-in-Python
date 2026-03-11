@@ -9,8 +9,11 @@ Inspired by [Kavan's C++/OpenGL gravity simulation](https://youtu.be/_YbGWoUaZg0
 ---
 
 ## ✨ Demo
-3-D View (TILT VIEW)
+#3-D View (TILT VIEW)
 ![image alt](https://github.com/Solivagus17/Gravity-Simulation-in-Python/blob/ac637aafc5c44015f9c686a009036f37d2ce5758/Gravity%20Simulation%20in%20Python-%20TILT%20view.png)
+
+#BIRD'S EYE View(2-D View)
+![image alt](https://github.com/Solivagus17/Gravity-Simulation-in-Python/blob/2a2daf16f158acefee2f8b4f7c57c33d2d6deb59/Gravity%20Simulation%20in%20Python-%20BIRD'S%20EYE%20view.png)
 
 
 ---
